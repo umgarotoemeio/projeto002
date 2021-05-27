@@ -1,0 +1,185 @@
+body{ background-color:#E4EFF5;
+}
+
+h1{ font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size:1.5rem;
+    margin-left: 5%;
+    margin-top: 7%;
+    color:#23959A;
+
+
+
+}
+
+.container-main{
+                 height: 550px;
+                 width: 550px;
+                 position: relative;
+                 margin:10% 30% 10% 30%;
+
+
+}
+
+
+
+
+
+
+.container-top{background-color: #ffffff;
+               width: 100%;
+               position: absolute;
+               height: 250px;
+
+
+
+}
+
+.p-first{font-family: 'Raleway', sans-serif;
+          color: #687980;
+          margin-left: 5%;
+          margin-bottom: 0;
+          width: 80%;
+
+
+
+
+
+
+}
+
+.p-first-perfect{font-family: 'Raleway', sans-serif;
+          color: #687980;
+          margin-left: 5%;
+          margin-top: 1%;
+          width:80%;
+
+
+
+
+}
+
+.p-first-green{ font-family: 'Raleway', sans-serif;
+                color: #CADF5B;
+                margin-left:5%;
+
+
+}
+
+.container-left{ position: absolute;
+                height: 300px;
+                width: 50%;
+                background-color: #239593;
+                bottom:0;
+
+
+
+}
+
+.h2-left-sub{ color:#ffffff;
+            font-family: 'Raleway', sans-serif;
+            font-weight: bold;
+            font-size:1rem;
+            margin-left: 7%;
+            margin-top: 15%;
+
+
+
+}
+
+.h2-left-money{color:#ffffff;
+              font-family: 'Raleway', sans-serif;
+              font-weight: normal;
+              margin-left: 7%;
+              font-size:1.8rem;
+              display: inline-block;
+
+
+}
+
+.p-left{color: #ffffff;
+      margin-left: 7%;
+      width: 60%;
+
+
+
+}
+.p-left-per{
+            display: inline-block;
+            color: #687980;
+
+
+
+}
+
+.btn{margin-left: 7%;
+      margin-top: 3%;
+  background: #C0DF34;
+   background-image: -webkit-linear-gradient(top, #C0DF34, #C0DF34);
+   background-image: -moz-linear-gradient(top, #C0DF34, #C0DF34);
+   background-image: -ms-linear-gradient(top, #C0DF34, #C0DF34);
+   background-image: -o-linear-gradient(top, #C0DF34, #C0DF34);
+   background-image: -webkit-gradient(to bottom, #C0DF34, #C0DF34);
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   height: 25px;
+   line-height: 25px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 205px;
+   font-size: 24px;
+   font-weight: 100;
+   padding: 16px;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+
+}
+
+
+.container-right{ position: absolute;
+                height: 300px;
+                width: 50%;
+                background-color: #389F9D;
+                bottom:0;
+                right: 0;
+
+
+
+}
+
+.h2-right{color: #ffffff;
+          margin-left: 7%;
+          margin-top:15%;color:#ffffff;
+          font-family: 'Raleway', sans-serif;
+          font-weight: bold;
+          font-size:1rem;
+
+}
+
+.p-right{ color: #98A5B1;
+  text-align: left;
+  width: 80%;
+  line-height:2;
+  margin-left:7%;
+
+
+
+}
+
+.copy{ text-align: center;
+
+
+}
+
+.copyright{
+
+  text-decoration: none;
+}
+
+.copyright:hover{ color:green;
+
+}
